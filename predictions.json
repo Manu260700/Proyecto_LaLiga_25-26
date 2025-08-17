@@ -1,0 +1,52 @@
+[
+  {
+    "home_team": "Girona",
+    "away_team": "Rayo Vallecano",
+    "expected_home_goals": 3.108,
+    "expected_away_goals": 0.963,
+    "predicted_score": [
+      3,
+      0
+    ]
+  },
+  {
+    "home_team": "Villarreal",
+    "away_team": "Oviedo",
+    "expected_home_goals": 3.33,
+    "expected_away_goals": 1.001,
+    "predicted_score": [
+      3,
+      1
+    ]
+  },
+  {
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "expected_home_goals": 0.726,
+    "expected_away_goals": 1.791,
+    "predicted_score": [
+      0,
+      1
+    ]
+  },
+  {
+    "home_team": "Alaves",
+    "away_team": "Levante",
+    "expected_home_goals": 1.477,
+    "expected_away_goals": 0.648,
+    "predicted_score": [
+      1,
+      0
+    ]
+  },
+  {
+    "home_team": "Valencia",
+    "away_team": "Real Sociedad",
+    "expected_home_goals": 2.039,
+    "expected_away_goals": 0.661,
+    "predicted_score": [
+      2,
+      0
+    ]
+  }
+]
