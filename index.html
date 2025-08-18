@@ -73,7 +73,7 @@
     }
     async function fetchPredictions() {
       try {
-        const response = await fetch('/api/predictions');
+        const response = await fetch('predictions.json');
         const data = await response.json();
         renderPredictions(data);
       } catch (err) {
